@@ -1,5 +1,7 @@
 # ss-panel
 
+此ss-spanel与原作者几乎一样，只是本人修改了部分源代码，支持smtp发邮件。安装请参考原作者文档
+
 Let's talk about cat.  Based on [LightFish](https://github.com/Pongtan/LightFish).
 
 [Donation](https://github.com/orvice/ss-panel/wiki/Donation)
